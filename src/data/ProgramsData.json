@@ -1,0 +1,617 @@
+[
+    {
+        "id": "1",
+        "image" :"images/universities/Amity.jpg",
+        "name": "Amity University Online",
+        "cources": [
+            {
+                "courseType": "Post Graduation",
+                "courceName": "Online Masters in Business Administration",
+                "duration": "2 Years",
+                "details" : "Empower yourself by giving your career the right boost with Amity’s Online MBA programme. India's first UGC recognized online MBA aims to help learners gain insights on all important concepts, practices, and trends in the subject area. The online MBA is a two-year (4 semesters) programme with specialisations in 12 areas and built-in projects to prepare students for prospective job opportunities.",
+                "fees" : "₹1,99,000",
+               "programStructure":[
+                    {
+                        "sem": "Semester 1",
+                        "syllabus": [
+                            "Accounting for Managers",
+                            "Marketing Management",
+                            "Managerial Economics",
+                            "Statistics for Management",
+                            "Professional communication"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 2",
+                        "syllabus": [
+                            "Business Research Methods",
+                            "Financial Management",
+                            "Human Resource Management",
+                            "Conflict Resolution and Management",
+                            "Legal Aspects of Business"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 3",
+                        "syllabus": [
+                            "Professional Ethics",
+                            "Strategic Management",
+                            "Minor Project"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 4",
+                        "syllabus": [
+                            "Management in Action - Social Economic and Ethical Issues",
+                            "Digital Marketing",
+                            "Major Project"
+                        ]
+                    }
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "10th class certificate (completing 10 years of formal schooling).",
+                          "12th class certificate (completing 12 years of formal schooling).",
+                          "Bachelor’s Degree in any discipline from any recognized university with min.40% aggregate."
+                    ]
+                }
+            },
+            {
+                "courseType": "Graduation",
+                "courceName": "Online Bachelors in Commerce",
+                "duration": "2 Years",
+                "details" : "Make A Fulfilling Career With India's First UGC Recognized Online B.Com Our Bachelors of Commerce Degree provides you with a strong foundation in business and economics, thereby opening up career opportunities in finance and accounting. Learn from an eminent international faculty and finish your degree online. Adapt to the ever-evolving job market and stay ahead of the curve.",
+                "fees" : "₹99,000",
+                "programStructure":[
+                    {
+                        "sem": "Semester 1",
+                        "syllabus": [
+                            "Business Mathematics",
+                            "Financial Accounting",
+                            "Mercantile Law",
+                            "Environmental Studies",
+                            "Business Communication"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 2",
+                        "syllabus": [
+                            "Business Mathematics II",
+                            "Financial Accounting II",
+                            "Fundamentals of Corporate Law",
+                            "Macroeconomics",
+                            "Principles of Marketing"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 3",
+                        "syllabus": [
+                            "Individual Excellence and Social Dynamic",
+                            "Corporate Accounting I",
+                            "Cost Accounting",
+                            "Direct Tax I",
+                            "Business Statistics"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 4",
+                        "syllabus": [
+                            "Corporate Accounting II",
+                            "Direct Tax II"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 5",
+                        "syllabus": [
+                            "Business Organisation",
+                            "Fundamentals of Financial Management",
+                            "Fundamentals of Financial Management"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 6",
+                        "syllabus": [
+                            "Major Project",
+                            "Ethics and Corporate Governance"
+                        ]
+                    }
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "10th class certificate (completing 10 years of formal schooling).",
+                          "12th class certificate (completing 12 years of formal schooling).",
+                          "10+2 passed students or aspirants seeking a career in the area of Finance and Accounting."
+                    
+
+
+                    ]
+                }
+                
+            },
+            {
+                "courseType": "Graduation",
+                "courceName": "Online Bachelor of Computer Application",
+                "duration": "2 Years",
+                "details" : "Master programming through India's first UGC recognized online Bachelor of Computer Applications program. A Bachelor of Computer Applications program with a specialization in Software Engineering focuses on blending core computer science concepts with practical software development skills. Students begin with foundational courses covering programming languages, data structures, algorithms, and computer architecture. Then, they dive into specialized software engineering topics like development methodologies, software design, testing, and project management. By the end of the program, graduates are well-prepared for careers as software engineers, developers, or analysts. They possess the technical skills and practical experience needed to design, develop, and maintain software systems effectively, meeting the demands of the ever-evolving tech industry.",
+                "fees":"₹1,50,000",
+                "programStructure":[
+                    {
+                        "sem": "Semester 1",
+                        "syllabus": [
+                            "Basic Mathematics- I",
+                            "Business Communication",
+                            "Computer and Information Technology",
+                            "Human Computer Interaction",
+                            "Programming in C"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 2",
+                        "syllabus": [
+                            "Data Structures using C",
+                            "Environmental Studies",
+                            "Individual Excellence and Social Dynamic",
+                            "Operating System Concepts",
+                            "Software Engineering and Modeling"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 3",
+                        "syllabus": [
+                            "Introduction to Database Management System",
+                            "Computational Statistics",
+                            "Green computing",
+                            "Network Basics",
+                            "Object Oriented Programming using Java"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 4",
+                        "syllabus": [
+                            "Unix Operating System and Shell Programming",
+                            "Python Programming",
+                            "Getting started with Java Programming",
+                            "Java Database Programming",
+                            "Developing Web Application"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 5",
+                        "syllabus": [
+                            "Introduction to Artificial Intelligence",
+                            "Fundamentals of Ecommerce",
+                            "Professional Ethics",
+                            "Getting Cloud Ready",
+                            "DevOps Principles, Practices and Tools with Cloud"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 6",
+                        "syllabus": [
+                            "Major Project",
+                            "Planning for a project",
+                            "Cloud (AWS) based Application Development with DevOps",
+                            "Apply Agile principles and develop a project"
+                        ]
+                    }
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "10th class certificate (completing 10 years of formal schooling).",
+                          "12th class certificate (completing 12 years of formal schooling)."
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "images/universities/dypatilonline.jpg",
+        "name": "D.Y.Patil Online",
+        "cources": [
+            {
+                "courseType": "Post Graduation",
+                "courceName": "Online MBA in Blockchain Management",
+                "duration": "2 Years",
+                "details" : "In basic terms, a blockchain is a distributed digital log of transactions that is replicated throughout the network of connected computer systems. A blockchain acts as a digital database, storing data electronically. The principal use of blockchains is in cryptocurrency systems like Bitcoin, where they are essential for keeping a safe, decentralized record of transactions. One can use blockchain technology to make system manipulation, hacking, and cheating more difficult or impossible. Businesses can decrease transaction costs and use external resources just as easily as internal ones by using MBAs in blockchain management. Numerous fields are affected, including accounting, capital investment, sales and marketing, contract negotiation and enforcement, and marketing.",
+                "fees":"₹1,69,200",
+                "programStructure":[
+                    {
+                        "sem": "Semester 1",
+                        "syllabus": [
+                            "Principles & Practices of Management",
+                            "Organisational Behaviour",
+                            "Management Accounting",
+                            "Managerial Economics",
+                            "Business Communication",
+                            "Research Methodology",
+                            "Environment Awareness and Disaster Management"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 2",
+                        "syllabus": [
+                            "Human Resource Management",
+                            "Marketing Management",
+                            "Financial Management",
+                            "Operations Management",
+                            "Management Information System",
+                            "Strategic Management & Business Policy",
+                            "Entrepreneurship Development"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 3",
+                        "syllabus": [
+                            "Basics of Blockchain Technology",
+                            "Blockchain Technology and Management",
+                            "Cryptography and Information Security",
+                            "Cloud Infrastructure and Services",
+                            "Statistics & Quantitative Techniques",
+                            "Blockchain and FinTech",
+                            "Generic Elective-I",
+                            "Note: For Generic Elective-I course students can select any one of the following courses",
+                            "Digital Marketing",
+                            "Business English"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 4",
+                        "syllabus": [
+                            "Enterprise Blockchain Applications & Hyperledger",
+                            "Design and Development of Blockchain Applications",
+                            "Generic Elective-II",
+                            "Project Work Report",
+                            "Note: For Generic Elective-II course students can select any one of the following courses.",
+                            "Soft Skill",
+                            "Business Ethics and Corporate Governance"
+                        ]
+                    }
+                    
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "Candidates who have completed a Bachelor’s degree with a minimum of 50% marks for the general category (45% for the reserved category) in any discipline can apply for an online MBA program."
+                    ]
+                }
+            },
+            {
+                "courseType": "Post Graduation",
+                "courceName": "Online MBA in Hospital Management",
+                "duration": "2 Years",
+                "details" : "MBA in Hospital Administration and Health Care Management is a growing and preferable management specialisation for students who want to advance their knowledge about complex healthcare and hospital administration. The DY Patil's Online MBA in Hospital Administration assists the learner in growing their career in health systems with proficiency to attain success in the arena of healthcare. The course will prepare learners to handle hospital finances, operations, supply & inventory, healthcare systems and policies. Additionally, you will also develop problem-solving abilities and decision-making capabilities in the hospital industry essential for good administration.",
+                "fees":"₹1,69,200",
+               "programStructure":[
+                    {
+                        "sem": "Semester 1",
+                        "syllabus": [
+                            "Principles & Practices of Management",
+                            "Organisational Behaviour",
+                            "Management Accounting",
+                            "Managerial Economics",
+                            "Business Communication",
+                            "Research Methodology",
+                            "Environment Awareness and Disaster Management"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 2",
+                        "syllabus": [
+                            "Human Resource Management",
+                            "Marketing Management",
+                            "Financial Management",
+                            "Operations Management",
+                            "Management Information System",
+                            "Strategic Management & Business Policy",
+                            "Entrepreneurship Development"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 3",
+                        "syllabus": [
+                            "Indoor and Outdoor Hospital Services",
+                            "Ancillary Hospital Services",
+                            "Legal Aspects of Hospital and Health Management",
+                            "Marketing of Health Care Services",
+                            "Community Health & Hospital Safety & Risk Management",
+                            "Quality Management in Health Care Services",
+                            "Generic Elective-I (Digital Marketing/ Business English)"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 4",
+                        "syllabus": [
+                            "Hospital Administration & Biomedical Waste Management",
+                            "Operations Management in Hospitals",
+                            "Generic Elective-II (Soft Skill/ Business Ethics and Corporate Governance)",
+                            "Project Work Report"
+                        ]
+                    }
+                    
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "Candidates who have completed a Bachelor’s degree with a minimum of 50% marks for the general category (45% for the reserved category) in any discipline can apply for an online MBA program."
+                    ]
+                }
+            }
+        ]        
+    },
+    {
+        "id": "3",
+        "image": "images/universities/iimkozikode.jpg",
+        "name": "Indian Institute of Management, Kozhikode",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Executive Post Graduate Programme",
+                "duration":"2 Years",
+                "details" : "PGP is a two-year, six-term programme. The first-year courses (term I to III) are aimed at building the foundations of the PGP. Hence, all students are required to complete all the first-year courses successfully.  These courses are designed to provide the basic conceptual knowledge and analytical tools in different disciplines and functional areas of management. Uniquely, the first-year curriculum also consists of courses that aim at inculcating a sense of ethical consciousness and social responsibility. The first-year core curriculum is compulsory, and the list of various courses is as follows:",
+                "fees":"₹ 15,30,000",
+                "programStructure":[
+                    {
+                        "sem": "Term 1",
+                        "syllabus": [
+                            "Organization and Market Economics",
+                            "Organization Behaviour",
+                            "Financial Accounting",
+                            "Data Analysis",
+                            "Business Communication",
+                            "Marketing Management",
+                            "Financial Markets and Instruments"
+                        ]
+                    },
+                    {
+                        "sem": "Term 2",
+                        "syllabus": [
+                            "Optimization with Spreadsheets",
+                            "Economic Environment",
+                            "Cost and Management Accounting",
+                            "Human Resource Management",
+                            "Information Systems",
+                            "Corporate Finance",
+                            "Legal and Ethical Perspectives for Managers"
+                        ]
+                    },
+                    {
+                        "sem": "Term 3",
+                        "syllabus": [
+                            "Strategic Management",
+                            "Leadership and Change Management",
+                            "Business Models for Digital Economy",
+                            "Operations Management",
+                            "Innovation and Design Thinking",
+                            "Scientific Enquiry for Social Sciences",
+                            "Society and Business",
+                            "Sustainability and Business"
+                        ]
+                    }
+                    
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "The admission to the programme is through a rigorous and internationally acclaimed admission test (CAT) with average selection rate of less than one in hundred candidates. Leading Indian and foreign companies visit the Institute to participate in campus placement programme."
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "images/universities/pune.jpg",
+        "name": "Pune University Online",
+        "cources": [
+            {
+                "courseType": "Certification",
+                "courceName" : "Post Graduate Diploma in Blockchain Technology",
+                "duration":"10 Months"            },
+            {
+                "courceName":"Post Graduate Diploma In Blockchain Project Management",
+                "duration": "10 Months",
+                "details": "The Most Trusted University, Ranked #2 in Best University in India Savitribai Phule Pune University, one of the premier universities in India, is positioned in the North-western part of Pune city. It occupies an area of about 411 acres. It was established on 10th February, 1949 under the Poona University Act. The university houses 46 academic departments. It is popularly known as the 'Oxford of the East'. It has about 307 recognized research institutes and 612 affiliated colleges offering graduate and under-graduate courses.The university attracts many foreign students due to its excellent facilities. It offers good accommodation facility. There is a provision of hostel for the students. There is a well-stocked library containing plenty of books regarding various subjects. The university offers different scholarships to the students.",
+                "fees":"₹1,29,000"
+    
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "image": "images/universities/nmims.jpg",
+        "name": "Narsee Monjee Institute of Management Studies Online",
+        "cources": [
+            {
+                "courseType": "Post Graduation",
+                "courceName" : "Online Master in Business Administration",
+                "duration":"2 Years",
+                "details" : "The MBA Program spans over two years, designed to provide an extensive exploration of theoretical principles and functional domains within the field of Management.The curriculum comprises a varied range of courses that facilitate a thorough examination of fundamental concepts, established practices, and emerging trends within the designated subject area. The program begins with foundational courses aimed at establishing a strong understanding of essential business concepts.The MBA program offers a diverse range of electives, allowing students to specialize in their area of interest. There are five electives available for selection: Business, Marketing, Finance, Human Resource, Operation & Data Science.",
+                "fees":"₹4,00,000",
+                "programStructure":[
+                    {
+                        "sem": "Semester 1",
+                        "syllabus": [
+                            "Business Communication",
+                            "Financial Accounting",
+                            "Micro Economics & Macro Economics",
+                            "Organizational Behavior",
+                            "Marketing Management",
+                            "Quantitive Methods -1"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 2",
+                        "syllabus": [
+                            "Cost & Management Accounting",
+                            "Human Resource Management",
+                            "Strategic Management",
+                            "Business Analytics",
+                            "Legal Aspect of Business",
+                            "Operations Management"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 3",
+                        "syllabus": [
+                            "Corporate Finance",
+                            "Research Methodology",
+                            "Project Part 1",
+                            "Elective 1",
+                            "Elective 2",
+                            "Elective 3",
+                            "Elective 4"
+                        ]
+                    },
+                    {
+                        "sem": "Semester 4",
+                        "syllabus": [
+                            "Indian Ethos & Ethics",
+                            "Corporate Sustainability",
+                            "International Business",
+                            "Project Part 2",
+                            "Elective 5",
+                            "Elective 6",
+                            "Elective 7"
+                        ]
+                    }
+                    
+                ],
+                "eligibility": {
+                    "forIndianStudents": [
+                          "Bachelor’s Degree in any discipline from recognised University or an equivalent degree recognised by Association of Indian Universities (AIU) with minimum 50% marks at Graduation Level (45% for SC/ST/OBC/PwD)."
+                    ]
+                }
+            }
+        ]
+
+    },
+    {
+        "id": "6",
+        "image": "images/universities/iimkozikode.jpg",
+        "name": "Indian Institute of Management, Kozhikode",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Fintech and Blockchain",
+                "duration":"11 Months",
+                "details" : "In today’s rapidly evolving financial landscape, understanding and leveraging financial technology (FinTech) is essential for career growth and success. IIM Kozhikode’s Professional Certificate Programme in FinTech offers a comprehensive and practical curriculum designed to equip participants with the requisite skills like financial modelling, blockchain, and cryptocurrency and the expertise to navigate the security challenges of this dynamic industry.",
+                "fees":"₹ 1,95,000"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "image": "images/universities/iimkozikode.jpg",
+        "name": "Indian Institute of Management, Kozhikode",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Business Management",
+                "duration":"12 Months",
+                "details" : "IIM Kozhikode’s Professional Certificate Programme in Business Management is designed to provide participants with a robust foundation in the principles and practices of business management. The curriculum is meticulously crafted to cover essential aspects of management, including marketing, finance, operations, and human resources, ensuring a holistic understanding of the business environment. Additionally, the programme leverages IIM Kozhikode’s renowned faculty, offering participants insights from their expertise, which brings a blend of academic rigour and real-world experience.",
+                "fees":"₹ 2,55,000"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "image": "images/universities/IIMcalcutta.png",
+        "name": "Indian Institute of Management, Calcutta",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Senior Leadership Programme for CXOs",
+                "duration":"12 Months",
+                "details" : "IIM Calcutta’s LEAD Senior Leadership Programme is tailored for senior executives and business owners seeking to refresh their business acumen, enhance leadership skills, and drive organizational success. The programme blends leadership development with strategic and macroeconomic insights, equipping leaders to navigate disruptions and foster sustainable change.",
+                "fees":"₹ 8,95,000"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "image": "images/universities/IIMcalcutta.png",
+        "name": "Indian Institute of Management, Calcutta",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Executive Programme in Business Management",
+                "duration":"12 Months",
+                "details" : "The Executive Programme in Business Management (EPBM) equips you with the skills and knowledge needed to transition from a functional expert to a business leader. In just 12 months, you’ll gain practical, industry-ready skills to navigate today’s fast-paced business environment. The curriculum covers complex socio-economic, environmental, and ethical challenges, with a focus on personal and professional growth through hands-on activities, business simulations, and insights from industry experts.",
+                "fees":"₹ 6,72,000"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "image": "images/universities/IIMcalcutta.png",
+        "name": "Indian Institute of Management, Calcutta",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Executive Programme In Applied Finance",
+                "duration":"12 Months",
+                "details" : "The Executive Programme in Applied Finance (EPAF) at IIM Calcutta equips you with cutting-edge finance knowledge through a blend of online and on-campus learning. In just 12 months, you’ll gain expertise in specialized finance fields like corporate finance, banking, alternative investments, and risk management.",
+                "fees":"₹ 4,05,000"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "image": "images/universities/IIMindore.avif",
+        "name": "Indian Institute of Management, Indore",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Executive Certificate Programme in Strategy and Leadership for Senior Professionals",
+                "duration":"12 Months",
+                "details" : "This programme is specifically designed to empower senior professionals with the indispensable capabilities required to navigate and excel in a world marked by heightened uncertainty and volatility. It goes beyond by expanding their insights into emerging technologies and trends, honing their leadership skills, and facilitating the application of their enhanced knowledge within their organisational contexts.",
+                "fees":"₹ 2,90,000"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "image": "images/universities/IIMindore.avif",
+        "name": "Indian Institute of Management, Indore",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Executive Programme in Digital Transformation",
+                "duration":"12 Months",
+                "details" : "This programme is a focused initiative designed to equip business leaders with the knowledge and skills necessary to navigate the complexities of the digital landscape. Through practical learning modules and case studies, participants gain insights into leveraging digital technologies to drive innovation, enhance operations, and achieve strategic objectives.",
+                "fees":"₹ 2,40,000 "
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "image": "images/universities/IIMnagpur.webp",
+        "name": "Indian Institute of Management, Nagpur",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Senior Management Programme",
+                "duration":"12 Months",
+                "details" : "Embark on a transformative journey with the Senior Management Programme (SMP) at IIM Nagpur, designed to catapult seasoned professionals to the zenith of their careers. Designed to equip participants with the acumen and agility required to navigate the complexities of today’s business landscape, SMP offers a comprehensive blend of theoretical frameworks, industry best practices, and experiential learning opportunities. Through immersive sessions led by esteemed faculty and industry experts, participants delve into cutting-edge concepts, dissect real-world case studies, and engage in spirited discussions aimed at fostering critical thinking and strategic foresight.",
+                "fees":"₹ 3,55,000"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "image": "images/universities/IIMVisakhapatnam.jpg",
+        "name": "Indian Institute of Management, Visakhapatnam",
+        "cources": [
+            {
+                "courseType": "Executive Program",
+                "courceName" : "Executive Master of Business Administration",
+                "duration":"24 Months",
+                "details" : "The IIM Vizag Executive MBA program is designed for working professionals to enhance management skills while advancing in their careers. In the first year, you’ll cover key areas like Marketing, Finance, and Strategy, with both core and elective courses, including Project Management and Business Ethics. The curriculum emphasizes practical application and data analysis to support strategic decision-making and interdisciplinary learning.",
+                "fees":"₹ 10,40,000"
+            }
+        ]
+    }
+    
+    
+    
+
+
+]
