@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import styled from 'styled-components';
-import { FaUsers, FaHandshake, FaLightbulb, FaComments, FaChartLine, FaHeart, FaBrain, FaRocket, FaBolt, FaGraduationCap, FaUserTie, FaBalanceScale, FaHandsHelping, FaEye, FaPresentationVideo, FaMicrophone, FaBuilding, FaChild, FaChalkboardTeacher, FaCrown, FaTools, FaGavel, FaTrophy, FaShieldAlt, FaMedal, FaFire, FaDollarSign, FaPuzzlePiece, FaBookOpen, FaGamepad, FaRibbon } from 'react-icons/fa';
+import { FaChartBar, FaSearch, FaCogs, FaUsers, FaExchangeAlt, FaFileExcel, FaEye, FaProjectDiagram, FaCertificate, FaSync, FaCode, FaShieldAlt, FaRobot, FaDatabase, FaTasks, FaUserCheck, FaLightbulb, FaBrain, FaCog, FaHandshake, FaComments, FaChartLine, FaHeart, FaRocket, FaBolt, FaGraduationCap, FaBalanceScale, FaHandsHelping, FaPlay, FaMicrophone, FaBuilding, FaChild, FaChalkboardTeacher, FaCrown, FaTools, FaTrophy, FaDollarSign, FaPuzzlePiece, FaBookOpen, FaGamepad, FaRibbon } from 'react-icons/fa';
 
 const HeroSection = styled.section`
   background: linear-gradient(135deg, #253457 0%, #1a2642 100%);
@@ -183,7 +183,7 @@ const BehavioralTraining = () => {
     { icon: <FaBalanceScale />, title: "Mindset Matters", description: "Goal setting and conquering limiting beliefs" },
     { icon: <FaHandsHelping />, title: "Relationship Enhancement", description: "Improve relationships at work and in life" },
     { icon: <FaTools />, title: "Habit Formation", description: "Build positive habits for sustained success" },
-    { icon: <FaPresentationVideo />, title: "Presentation Skills", description: "Master the art of impactful presentations" },
+    { icon: <FaPlay />, title: "Presentation Skills", description: "Master the art of impactful presentations" },
     { icon: <FaEye />, title: "Emotional Intelligence", description: "Develop emotional awareness and management skills" }
   ];
 

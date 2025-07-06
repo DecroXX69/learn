@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import styled from 'styled-components';
-import { FaChartBar, FaSearch, FaCogs, FaUsers, FaExchangeAlt, FaFileExcel, FaEye, FaProjectDiagram, FaCertificate, FaSync, FaCode, FaShield, FaRobot, FaDatabase, FaTasks, FaUserCheck, FaMaster, FaLightbulb, FaBrain, FaGears } from 'react-icons/fa';
+import { FaChartBar, FaSearch, FaCogs, FaUsers, FaExchangeAlt, FaFileExcel, FaEye, FaProjectDiagram, FaCertificate, FaSync, FaCode, FaShieldAlt, FaRobot, FaDatabase, FaTasks, FaUserCheck, FaMaster, FaLightbulb, FaBrain, FaGears, FaCog } from 'react-icons/fa';
 
 const HeroSection = styled.section`
   background: linear-gradient(135deg, #253457 0%, #1a2642 100%);
@@ -176,7 +176,7 @@ const TechnicalTraining = () => {
     { icon: <FaCertificate />, title: "CCBA Certification Prep", description: "Comprehensive preparation for Certification of Capability in Business Analysis" },
     { icon: <FaSync />, title: "AGILE / SCRUM", description: "Master agile methodologies and scrum frameworks" },
     { icon: <FaCode />, title: "BA / AGILE / SCRUM", description: "Integrated approach to business analysis with agile practices" },
-    { icon: <FaShield />, title: "SAFe", description: "Scaled Agile Framework for enterprise-level implementations" },
+    { icon: <FaShieldAlt />, title: "SAFe", description: "Scaled Agile Framework for enterprise-level implementations" },
     { icon: <FaUserCheck />, title: "Product Ownership", description: "Product management and ownership best practices" },
     { icon: <FaTasks />, title: "Project Management", description: "Comprehensive project management methodologies and tools" }
   ];
@@ -189,8 +189,8 @@ const TechnicalTraining = () => {
   ];
 
   const advancedRoles = [
-    { icon: <FaGears />, title: "AGILE Coach", description: "Lead agile transformations and coach teams effectively" },
-    { icon: <FaMaster />, title: "Scrum Master", description: "Facilitate scrum processes and remove team impediments" }
+    { icon: <FaCog />, title: "AGILE Coach", description: "Lead agile transformations and coach teams effectively" },
+    { icon: <FaUserCheck />, title: "Scrum Master", description: "Facilitate scrum processes and remove team impediments" }
   ];
 
   return (
